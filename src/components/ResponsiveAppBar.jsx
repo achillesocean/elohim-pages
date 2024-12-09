@@ -109,7 +109,7 @@ function ResponsiveAppBar() {
               fontFamily: "roboto",
               fontWeight: 700,
               letterSpacing: ".3rem",
-              color: "inherit",
+              color: "#4B4B4B",
               textDecoration: "none",
             }}
           >
@@ -147,7 +147,7 @@ function ResponsiveAppBar() {
               fontFamily: "roboto",
               fontWeight: 700,
               letterSpacing: ".3rem",
-              color: "black", // Text color
+              color: "#4B4B4B", // Text color
               textDecoration: "none",
             }}
           >
@@ -168,7 +168,7 @@ function ResponsiveAppBar() {
                 onClick={handleCloseNavMenu}
                 sx={{
                   my: 2,
-                  color: "black",
+                  color: "#4B4B4B",
                   display: "block",
                   fontWeight: "700",
                 }} // Button text color
